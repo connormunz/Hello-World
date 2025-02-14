@@ -7,6 +7,7 @@ First Repository
 
 - [HELLO](#Project-Title)
 - [DESCRIPTION](#Description)
+- [HOW TO RUN PROGRAM](#How-to-run-program)
 
 
 
@@ -22,3 +23,8 @@ Hi :]
 ## Description
 
 This is a test project 
+
+## How to run program
+
+Eh
+
